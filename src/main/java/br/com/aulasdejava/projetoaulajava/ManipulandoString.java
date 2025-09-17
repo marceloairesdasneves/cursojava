@@ -10,7 +10,7 @@ package br.com.aulasdejava.projetoaulajava;
  */
 public class ManipulandoString {
     public static void main(String[] args) {
-        String texto = "JavaL";
+        String texto = "JavaLanguage";
         
         System.out.println(texto.length());
         System.out.println(texto.charAt(0));
